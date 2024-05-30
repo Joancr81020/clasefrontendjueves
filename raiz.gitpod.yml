@@ -1,0 +1,4 @@
+tasks:
+  - init: echo "Inicializando Gitpod..."
+  - command: npm install
+  - command: npm start
